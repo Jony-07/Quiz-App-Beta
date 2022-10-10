@@ -7,21 +7,21 @@
 ## Run json Fake API (Command Prompt)
 
 ```
-> cd quizApp
-
-> quizApp> json-server db.json
-
-
+ cd quizApp
+```
+```
+ json-server db.json
 ```
 ## Run App
 
 ```
-> cd quizApp
-
-> quizApp> npm install
-
-> quizApp> react-native run-android
-
+ cd quizApp
+```
+```
+ npm install
+```
+```
+ react-native run-android
 ```
 # LICENSE
 
