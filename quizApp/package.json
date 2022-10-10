@@ -1,0 +1,32 @@
+{
+  "name": "quizApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "link": "^1.5.1",
+    "react": "17.0.2",
+    "react-native": "0.68.3",
+    "react-native-vector-icons": "^9.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/runtime": "^7.19.0",
+    "@react-native-community/eslint-config": "^3.1.0",
+    "babel-jest": "^29.1.0",
+    "eslint": "^8.24.0",
+    "jest": "^29.1.1",
+    "metro-react-native-babel-preset": "^0.72.3",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

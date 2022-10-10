@@ -1,0 +1,47 @@
+{
+    "preguntas": [
+            {
+                "question": "¿Cual de los siguientes no es un lenguaje de programación?",
+                "options": ["HTML","JavaScript","C#","C++"],
+                "correct_option": "HTML",
+                "tipo":"multiple",
+                "id": 1
+            },
+            {
+                "question": "¿Cual de los siguientes no es un lenguaje de programación?",
+                "options": ["CSS","Java","F#","Ruby"],
+                "correct_option": "CSS",
+                "tipo":"multiple",
+                "id": 2
+            },
+            {
+                "question": "¿Cual de las siguientes opciones es un controlador de versiones?",
+                "options": ["GIT","VS Code","Node JS","Hyper-V"],
+                "correct_option": "GIT",
+                "id": 3
+            },
+            {
+                "question": "¿Cual de los siguientes programas no es un virtualizador de VM?",
+                "options": ["Hyper-V","VirtualBox","VM-Ware","Netbeans"],
+                "correct_option": "Netbeans",
+                "tipo":"multiple",
+                "id": 4
+            },
+            {
+                "question": "¿Cuál de los siguientes no es un tipo de accesibilidad a variables?",
+                "options": ["Private","Internal","Protected","Public"],
+                "correct_option": "Internal",
+                "tipo":"multiple",
+                "id": 5
+            },
+            {
+                "question": "¿Tengo hambre?",
+                "options": ["Verdadero","Falso"],
+                "correct_option": "Verdadero",
+                "tipo":"booleana",
+                "id": 6
+            }
+
+    ]
+
+}
